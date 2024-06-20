@@ -95,7 +95,7 @@ body {
 }
 
 #iziwc {
-    padding: 10px;
+    padding: 50px;
     text-align: center;
     font-size: 40px;
 }
@@ -125,6 +125,10 @@ body {
     max-width: 100%;
 }
 
+kollecti {
+    color: black;
+    max-width: 100%;
+}
 @media (max-width: 768px) {
     .gjs-row {
         flex-wrap: wrap;
